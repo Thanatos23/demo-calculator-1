@@ -1,4 +1,4 @@
-package com.cryptenet.thanatos.democalculator;
+package com.cryptenet.thanatos.demo_calculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

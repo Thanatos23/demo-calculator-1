@@ -1,4 +1,4 @@
-package com.cryptenet.thanatos.democalculator;
+package com.cryptenet.thanatos.demo_calculator;
 
 import org.junit.Test;
 
